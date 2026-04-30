@@ -249,6 +249,9 @@
     "settings.languages.installed": "instalado",
     "settings.languages.catalogLink": "Catálogo oficial de idiomas",
     "settings.languages.spanishRepoLink": "Repo del paquete español",
-    "settings.languages.helpFooter": "Tytus ya habla inglés y español. Ayúdanos a enseñarle más idiomas antes de que empiece a inventar mensajes de error en klingon."
+    "settings.languages.helpFooter": "Tytus ya habla inglés y español. Ayúdanos a enseñarle más idiomas antes de que empiece a inventar mensajes de error en klingon.",
+    "settings.languages.contributeTitle": "¿Quieres mantener un nuevo idioma?",
+    "settings.languages.contributeBody": "Abre el catálogo, copia la estructura del paquete español y envía un PR. Tytus necesita humanos para los matices, los chistes y para no sonar como una tostadora con Google Translate.",
+    "settings.languages.createPackLink": "Crear un nuevo paquete de idioma"
   }
 }
