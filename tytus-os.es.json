@@ -245,6 +245,10 @@
     "settings.languages.officialRefresh": "Buscar paquetes oficiales",
     "settings.languages.officialLoadError": "No se pudo cargar el catálogo oficial de idiomas: {message}",
     "settings.languages.officialInstallError": "No se pudo instalar el paquete oficial de idioma: {message}",
-    "settings.languages.officialPackMeta": "{locale} · v{version} · GitHub oficial"
+    "settings.languages.officialPackMeta": "{locale} · v{version} · GitHub oficial",
+    "settings.languages.installed": "instalado",
+    "settings.languages.catalogLink": "Catálogo oficial de idiomas",
+    "settings.languages.spanishRepoLink": "Repo del paquete español",
+    "settings.languages.helpFooter": "Tytus ya habla inglés y español. Ayúdanos a enseñarle más idiomas antes de que empiece a inventar mensajes de error en klingon."
   }
 }
