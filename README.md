@@ -1,24 +1,35 @@
 # TytusOS Spanish Language Pack
 
-Install through TytusOS → Settings → Languages → Import language pack → select `tytus-os.es.json`.
+Official Spanish language pack for TytusOS.
 
-This directory is intentionally shaped so it can be split into its own GitHub repo later:
+## Install inside TytusOS
 
+Open:
+
+```txt
+TytusOS → Settings → Languages → Check official packs → Español
 ```
-tytus-os-lang-es/
-  README.md
-  tytus-os.es.json
+
+TytusOS downloads this pack through the official language catalog:
+
+```txt
+https://github.com/traylinx/tytus-os-language-index
 ```
 
-Future catalog entry:
+Raw pack URL:
 
-```json
-{
-  "locale": "es",
-  "name": "Spanish",
-  "nativeName": "Español",
-  "version": "1.0.0",
-  "url": "https://raw.githubusercontent.com/traylinx/tytus-os-lang-es/main/tytus-os.es.json",
-  "sha256": "..."
-}
+```txt
+https://raw.githubusercontent.com/traylinx/tytus-os-lang-es/main/tytus-os.es.json
 ```
+
+## Manual install
+
+Download `tytus-os.es.json`, then open:
+
+```txt
+TytusOS → Settings → Languages → Import language pack → JSON
+```
+
+## Contributing
+
+Fix awkward Spanish, add missing strings, or improve tone. Tytus wants to sound like a real OS, not a toaster with a phrasebook.
